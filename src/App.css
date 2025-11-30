@@ -1,0 +1,31 @@
+@import "tailwindcss";
+button {
+    cursor: pointer;
+}
+html, body {
+  height: 100vh;
+}
+.main-left {
+  background-color: #f5f4f4;
+  height: 100vh;
+  padding: 16px;
+  padding-top: 32px;
+}
+
+.main-right {
+    flex-grow: 1;
+    height: 100vh;
+    position: relative;
+}
+#map-container {
+    height: 100%;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;  /* Safari and Chrome */
+}
