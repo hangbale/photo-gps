@@ -8,3 +8,8 @@
 
 ## 截图
 
+![1](https://github.com/hangbale/photo-gps/blob/main/screenshot/1.jpg?raw=true)
+
+![](https://github.com/hangbale/photo-gps/blob/main/screenshot/2.jpg?raw=true)
+
+![](https://github.com/hangbale/photo-gps/blob/main/screenshot/3.jpg?raw=true)
