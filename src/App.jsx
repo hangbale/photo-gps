@@ -70,7 +70,7 @@ function App() {
           position: new AMap.LngLat(longitude, latitude),
           icon: new AMap.Icon({
             size: new AMap.Size(25, 34),
-            image: "//a.amap.com/jsapi_demos/static/demo-center/icons/poi-marker-default.png",
+            image: "/poi-marker-default.png",
             imageOffset: new AMap.Pixel(0, 0),
             imageSize: new AMap.Size(25, 34)
           }),
@@ -212,7 +212,7 @@ function App() {
         position: new AMap.LngLat(lng, lat),
         icon: new AMap.Icon({
           size: new AMap.Size(25, 34),
-          image: "//a.amap.com/jsapi_demos/static/demo-center/icons/poi-marker-red.png",
+          image: "/poi-marker-red.png",
           imageOffset: new AMap.Pixel(0, 0),
           imageSize: new AMap.Size(25, 34)
         }),
